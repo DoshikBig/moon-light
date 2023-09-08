@@ -21,7 +21,7 @@ To get started with `gpt-repository-loader`, follow these steps:
 
 5. The tool will generate an output.txt file containing the text representation of the repository. You can now use this file as input for AI language models or other text-based processing tasks.
 
-## Running Tests on chain
+## Running Tests on chain55
 
 To run the tests for `gpt-repository-loader`, follow these steps:
 
