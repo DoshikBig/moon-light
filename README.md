@@ -5,7 +5,7 @@
 ## Contributing
 Some context around building this is [located here](https://github.com/mpoon/gpt-repository-loader/discussions/18). Appreciate any issues and pull requests in the spirit of having mostly GPT build out this tool. Using [ChatGPT Plus](https://chat.openai.com/) is recommended for quick access to GPT-4.
 
-## Getting Started
+## Getting Starteds
 
 To get started with `gpt-repository-loader`, follow these steps:
 
