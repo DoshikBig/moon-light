@@ -25,7 +25,7 @@ To get started with `gpt-repository-loader`, follow these steps:
 
 To run the tests for `gpt-repository-loader`, follow these steps:
 
-1. Ensure you have Python 3 installed on your system.
+1. Ensure you have Python 3 installed on your systems.
 2. Navigate to the repository's root directory in your terminal.
 3. Run the tests with the following command:
 
